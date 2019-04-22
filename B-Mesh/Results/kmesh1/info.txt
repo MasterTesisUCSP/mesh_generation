@@ -1,0 +1,96 @@
+ImageSize	513 513 1
+EdgeCount	10984
+FrameCount	2052
+InteriorCount	250149
+SkeletonCount	7604
+Dt	0 112
+Flux	-0.853553 0.247077
+EdgeDensity	-1 107.935
+WaveLenght	125
+DensityMap	4.81077 194.492
+DensityMap(n)	2.99999 150
+EdgeSamplesCount	428
+TotalSamplesCount	783
+EdgeTriangulationCount	910
+InteriorTriangulationCount	1500
+Total time	0.447
+ImageSize	513 513 1
+EdgeCount	10984
+FrameCount	2052
+InteriorCount	250149
+SkeletonCount	7604
+Dt	0 112
+Flux	-0.853553 0.247077
+EdgeDensity	-1 107.935
+WaveLenght	125
+DensityMap	4.81045 194.541
+DensityMap(n)	3 80
+EdgeSamplesCount	597
+TotalSamplesCount	1566
+EdgeTriangulationCount	1285
+InteriorTriangulationCount	3031
+Total time	0.463
+ImageSize	513 513 1
+EdgeCount	10984
+FrameCount	2052
+InteriorCount	250149
+SkeletonCount	7604
+Dt	0 112
+Flux	-0.853553 0.247077
+EdgeDensity	-1 107.935
+WaveLenght	125
+DensityMap	4.81298 194.525
+DensityMap(n)	3 40
+EdgeSamplesCount	797
+TotalSamplesCount	2943
+EdgeTriangulationCount	1743
+InteriorTriangulationCount	5729
+Total time	0.45
+ImageSize	513 513 1
+EdgeCount	15920
+FrameCount	2052
+InteriorCount	245216
+SkeletonCount	16143
+Dt	0 99.2975
+Flux	-0.827665 0.247077
+EdgeDensity	-1 83.4386
+WaveLenght	116
+DensityMap	3.16474 165.814
+DensityMap(n)	3 40
+EdgeSamplesCount	1537
+TotalSamplesCount	4472
+EdgeTriangulationCount	3260
+InteriorTriangulationCount	8748
+Total time	0.527
+ImageSize	513 513 1
+EdgeCount	9636
+FrameCount	2052
+InteriorCount	251534
+SkeletonCount	9424
+Dt	0 123
+Flux	-0.783471 0.247077
+EdgeDensity	-1 105.262
+WaveLenght	141
+DensityMap	3.5314 207.721
+DensityMap(n)	3 40
+EdgeSamplesCount	777
+TotalSamplesCount	3107
+EdgeTriangulationCount	1714
+InteriorTriangulationCount	6032
+Total time	0.448
+ImageSize	513 513 1
+EdgeCount	22065
+FrameCount	2052
+InteriorCount	239277
+SkeletonCount	18368
+Dt	0 99.0202
+Flux	-0.816942 0.247077
+EdgeDensity	-1 59.4138
+WaveLenght	107
+DensityMap	3.29786 126.536
+DensityMap(n)	3 40
+EdgeSamplesCount	1890
+TotalSamplesCount	4705
+EdgeTriangulationCount	3947
+InteriorTriangulationCount	9165
+Total time	0.532
